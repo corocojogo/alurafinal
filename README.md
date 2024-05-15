@@ -1,5 +1,5 @@
 # alurafinal
-Projeto do alura realizazdo pelo aluno Kauã Martins.
+Projeto do alura realizado pelo aluno Kauã Martins.
 15/05/2024
 
 ## 🐀🥚
